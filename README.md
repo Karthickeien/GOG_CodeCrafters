@@ -2,7 +2,7 @@
 
 Crop prediction using machine learning involves the use of algorithms and statistical models to analyze various environmental and historical data to determine the optimal crop to grow in a particular area. The following steps can be used to develop a crop prediction model:
 
-# Data collection: 
+### Data collection: 
   Collect various data sets that can help predict the yield of a particular crop in a specific area. This data may include weather conditions, soil moisture, historical crop yields, and other relevant information.
 
 # Data preprocessing: 
