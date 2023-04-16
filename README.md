@@ -4,6 +4,7 @@
 A crop recommendation model is important for farmers because it provides them with data-driven recommendations for which crops to grow and how to optimize their yield. By analyzing data such as soil health, weather patterns, and crop history, the model can generate customized recommendations for individual farms. 
 This helps farmers make informed decisions about which crops to grow, when to plant and harvest them, and what inputs to use. By following these recommendations, farmers can increase their crop yields, reduce their expenses, and maximize their profits. Overall, a crop recommendation model can help farmers make more sustainable and profitable farming decisions, while also contributing to global food security.
 
+## SmartAgro
 Crop prediction using machine learning involves the use of algorithms and statistical models to analyze various environmental and historical data to determine the optimal crop to grow in a particular area. The following steps can be used to develop a crop prediction model:
 
 ### Data collection: 
